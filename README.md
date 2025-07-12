@@ -37,3 +37,9 @@ poetry run python -m ai_lab.pipline
 ```bash
 poetry run python -m ai_lab.show_samples
 ```
+
+## Запуск интерфейса
+
+```bash
+poetry run python -m ai_lab.pipline
+```
