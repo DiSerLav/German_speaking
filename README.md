@@ -41,5 +41,5 @@ poetry run python -m ai_lab.show_samples
 ## Запуск интерфейса
 
 ```bash
-poetry run python -m ai_lab.pipline
+poetry run streamlit run ai_lab/ui/app.py
 ```
